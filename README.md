@@ -4,7 +4,7 @@
 
 ## Description
 
-This project presents a set of physics questions in random order, tracks the player score, and offers the option to play again.
+This project presents a set of 10 physics questions in random order, tracks the player score, and offers the option to play again.
 
 ## Features
 
